@@ -5,6 +5,7 @@
 
 # Setup
 * It uses cron- a time-based job scheduler in Unix-like OS.
-* Scraper is runinng ones in a day to scrap data about upcoming coding events on codeforce nad codechef.
+* Scraper is runinng ones in a day to scrap data about upcoming coding events on codeforce and codechef.
 * Mailer is running every hour and sending mails to users for the events that are going to start in 1min to 60 min OR 1h 24 hr,
 thus two mails for a event one withing 1 hour and one within a day.
+
